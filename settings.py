@@ -318,6 +318,7 @@ INSTALLED_APPS = (
     "mezzanine.galleries",
     "mezzanine.twitter",
     "mezzanine.accounts",
+    "debug_toolbar"
     #"mezzanine.mobile",
 )
 
